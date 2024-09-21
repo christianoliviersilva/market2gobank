@@ -27,7 +27,7 @@ Depois de instalar o Flutter, execute o seguinte comando no terminal para verifi
 
  # Navegue até o Diretório do Projeto
 
-   `cd nome-do-projeto`
+    `cd nome-do-projeto`
 
  # Instale as Dependências
 
